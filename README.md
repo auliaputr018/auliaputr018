@@ -71,10 +71,10 @@ Computer Science graduate with strong interest in **Data Science, Data Analytics
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=auliaputr018&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auliaputr018&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="180" />
-</div>
+</p>
 
 ---
 
